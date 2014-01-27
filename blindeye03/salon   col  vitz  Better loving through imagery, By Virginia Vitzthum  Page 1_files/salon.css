@@ -1,0 +1,96 @@
+BODY {
+	FONT-WEIGHT: normal; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff
+}
+UL {
+	FONT-WEIGHT: normal; FONT-SIZE: 0.8em; FONT-STYLE: normal
+}
+TABLE {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+TD {
+	FONT-WEIGHT: normal; FONT-STYLE: normal
+}
+B {
+	FONT-WEIGHT: bold
+}
+I {
+	FONT-STYLE: italic
+}
+A:link {
+	COLOR: #cc0000
+}
+A:active {
+	COLOR: #666666
+}
+A:visited {
+	COLOR: #666666
+}
+.globalNav {
+	BACKGROUND-COLOR: #f2eedb
+}
+.covermain {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.salonCover {
+	BACKGROUND: url(http://images.salon.com/src/grid.gif) #ffffff
+}
+.gridLine {
+	BACKGROUND: #000000
+}
+.dottedLine {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #999999; FONT-STYLE: normal; FONT-FAMILY: Times, Helvetica, sans-serif
+}
+.pageNumbers {
+	TEXT-TRANSFORM: uppercase; COLOR: #000000
+}
+.grayDate {
+	COLOR: #666666
+}
+.columnistName {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #cc6600; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.coveraudio {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.coverent {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.coverbooks {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.coverbusiness {
+	BACKGROUND: #000000; COLOR: #f2eedb
+}
+.covercomics {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.coverhealth {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.covermwt {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.covernews {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.coverpeople {
+	BACKGROUND: #eeeeee; COLOR: #000000
+}
+.coverpolitics {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.coversex {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.covertech {
+	BACKGROUND: #ffffff; COLOR: #000000
+}
+.covercol {
+	BACKGROUND: #eeeeee; COLOR: #000000
+}
+.coverTopshop {
+	BACKGROUND: #bdc0a3; COLOR: #000000
+}
+.covershop {
+	BACKGROUND: #bdc0a3; COLOR: #000000
+}

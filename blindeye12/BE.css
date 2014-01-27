@@ -1,0 +1,108 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #FFF;
+}
+a:link, a:visited {
+	text-decoration: none;
+}
+
+a:hover, a:active {
+	color: #F00;
+	text-decoration: none;
+}
+
+.logotype {
+	position: absolute;
+	z-index: 100;
+	left: 50px;
+	top: 60px;
+}
+.core {
+	background-color: #FFF;
+	margin: 0px;
+	position: absolute;
+	left: 50px;
+	top: 100px;
+	width: 660px;
+	padding-top: 55px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 20px;
+}
+
+.BG_IMG {
+	z-index: -100;	
+}
+
+
+p {
+	font-size: 18px;
+	color: #666;
+	line-height: 24px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	margin: 0px;
+	clear: both;
+}
+h1 {
+	font-size: 36px;
+	color: #CCC;
+	font-weight: normal;
+	margin: 0px;
+	padding: 0px;
+}
+h2 {
+	font-size: 18px;
+	color: #666;
+	font-weight: bold;
+	margin: 0px;
+	padding: 0px;
+	clear: both;
+}
+.copyLG {
+	font-size: 36px;
+	color: #666;
+	font-weight: normal;
+	padding: 0px;
+	line-height: normal;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 15px;
+	margin-left: 0px;
+}
+.copySM {
+	font-size: 12px;
+	line-height: normal;
+	clear: none;
+}
+.picFloatLFT {
+	border: 1px solid #CCC;
+	float: left;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	margin-left: 0px;
+}
+
+#fadeshow1 {
+	z-index: 500;
+}
+embed {
+	float: left;
+	margin-bottom: 20px;
+	z-index: 500;
+}
+
+.banner {
+	display: none;
+/*	position: absolute;
+	top: 0px;
+	right: 0px;
+*/}

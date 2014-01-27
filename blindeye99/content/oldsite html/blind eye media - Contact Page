@@ -1,0 +1,138 @@
+
+
+
+
+<html>
+<head>
+<title>blind eye media - Contact Page</title>
+<Meta name="description" content="The Exoptic Fields Video is the video to end all videos. It's a VHS video designed to deflect attention from the
+screen, for the relief of TV and Internet addiction. Contact and feedback.">
+<Meta name="keywords" content="blindeyemedia, blind eye project, exoptic, anti-TV, video, visual perception, exopticfields, culture jamming, media literacy,
+ambient video, live cinema, gift, contact, telephone, email, e-mail, feedback">
+</head>
+
+<!-- HEADER FILE STARTS -->
+<style TYPE="text/css">
+<!--
+p {margin-left: 21pt; font-family: Times Roman, Times, "serif", "Courier New"; font-size: 13pt; line-height: 13pt}
+td {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 12pt}
+h1 {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 20pt}
+em {font-family: Arial, Helvetica, "sans-serif", "Courier New"; font-size: 22pt}
+h2 {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 16pt}
+h3 {font-family: Arial, Helvetica, "sans-serif", "Courier New"; font-size: 14pt}
+h5 {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 10pt}
+ol {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 13pt}
+strong {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 14pt; line-height: 15pt}
+small {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 10pt}
+ul {font-family: Times Roman, Times, "serif", "Courier New"; font-size: 13pt; line-height: 13pt}
+-->
+</style>
+<body bgcolor="ffffff">
+<a name="top">
+<table width="100%" bgcolor="ffffff" >
+	<!-- Logo -->
+	<center>
+	<tr>
+	<td>
+	<table width="100%">
+		<tr>
+		<td align="left" valign="bottom"><img src="graphics/logo.gif"></td>
+		<td align="right" valign="bottom">
+		<small><b>blind eye media &#149; po box 495 &#149; nyc 10040 &#149; 800.974.0073</b></small>
+		</td>
+		</tr>
+	</table>
+	<table>
+		<tr>
+		<td rowspan="2"><img src="graphics/dancer.gif"></td> 
+		<!-- Navigation -->
+		<td valign="top" width="100%">
+		<table width="100%" cellpadding="3">
+			<tr>
+			<td align="center" bgcolor="000000"><a href=default.html STYLE="text-decoration:none"><font color="ffffff">home<br>page</font></a></td>
+			<td align="center" bgcolor="000000"><a href=videobox.html STYLE="text-decoration:none"><font color="ffffff">video<br>box</font></a></td>
+			<td align="center" bgcolor="000000"><a href=stills.html STYLE="text-decoration:none"><font color="ffffff">video<br>stills</font></a></td>
+			<td align="center" bgcolor="000000"><a href="about.html" STYLE="text-decoration:none"><font color="ffffff">about<br>project</font></a></td>
+			<td align="center" bgcolor="000000"><a href="order.html" STYLE="text-decoration:none"><font color="ffffff">order<br>tapes</font></a></td>
+			<td align="center" bgcolor="000000"><a href="contact.html" STYLE="text-decoration:none"><font color="ffffff">contact<br>us</font></a></td>
+			</tr>
+			<tr><td></td></tr><td></td><tr><td></td></tr><tr><td></td></tr>
+			<tr valign="bottom">
+			<td colspan="6"><h3>for the reversal of media logic by visual deflection</h3></td>
+			</tr>
+		</table>
+		</td>
+		</tr>
+	</table>
+</td>
+</tr>
+<tr><td>
+<a name="top"></a>
+
+<!-- HEADER FILE ENDS -->
+
+
+<br>
+<center><h1>Contact Page</h1>
+<p>You can contact us via one of the methods listed below, or send us a <a
+href="#feedback">feedback</a></p>
+</center>
+<blockquote><blockquote><blockquote>
+<p>
+<b>Address:</b><br>
+blind eye media<br>
+po box 495<br>
+new york, ny 10040<br>
+<br>
+<b>Phone:</b><br>
+1 800 974 0073<br>
+<br>
+<b>email</b><br>
+<a href="mailto:info@blindeyemedia.com">info@blindeyemedia.com</a>
+</p>
+<hr>
+<p>
+</blockquote></blockquote></blockquote>
+<a name="feedback"><center><h2>Feedback Form</h2></center></a>
+<blockquote><blockquote>
+
+
+
+
+
+		<FONT SIZE=-1 FACE=ARIAL>
+
+		<FORM ACTION="contact.html" METHOD="POST">
+			<TABLE BORDER=0 CELLPADDING=5 CELLSPACING=0>
+			  <TR><TD VALIGN=TOP><FONT FACE=ARIAL SIZE=-1>Name:</FONT></TD><TD><INPUT TYPE="text" NAME="name" SIZE="30"></TD></TR>
+			  <TR><TD VALIGN=TOP><FONT FACE=ARIAL SIZE=-1>Email Address:</FONT></TD><TD><INPUT TYPE="text" NAME="email" SIZE="20"></TD></TR>
+
+			  <TR><TD VALIGN=TOP><FONT FACE=ARIAL SIZE=-1>Phone:</FONT></TD><TD><INPUT TYPE="text" NAME="phone" SIZE="20"></TD></TR>
+			  <TR><TD VALIGN=TOP><FONT FACE=ARIAL SIZE=-1>Fax:</FONT></TD><TD><INPUT TYPE="text" NAME="fax" SIZE="20"></TD></TR>
+
+
+			  <TR><TD COLSPAN=2 VALIGN=TOP><FONT FACE=ARIAL SIZE=-1>Feedback:</FONT><BR><TEXTAREA NAME="comments" COLS=40 ROWS=5 WRAP=ON></TEXTAREA></TD></TR>
+			  <TR><TD COLSPAN=2 ALIGN=RIGHT VALIGN=TOP><INPUT TYPE="submit" VALUE="Send Feedback"></TD></TR>
+			  <INPUT TYPE="hidden" NAME="step" VALUE="2">
+	 		</TABLE>
+		</FORM>
+
+		</FONT>
+
+
+
+</blockquote></blockquote>
+
+<br>
+
+<!-- FOOTER FILE STARTS -->
+</td></tr>
+</table>
+<br>
+© blind eye media, llc 2000<br>
+</body>
+</html>
+<!-- FOOTER FILE ENDS -->
+
+
+
