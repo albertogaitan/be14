@@ -6,3 +6,4 @@
 1. all of the backsplash images look muddy and much darker than earlier?
 1. ~~Website page descriptive text looks like it's being smashed by some width fixer - see attached screen grab~~
 1. Exhibition ==> Press ==> Salon page margins are off.
+1. [Creative Commons license](https://creativecommons.org/licenses/) choice may need updating as currently displayed version is deprecated and contradictory (i.e., ShareAlike *and* NoDerivative?)
