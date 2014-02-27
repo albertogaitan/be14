@@ -4,8 +4,6 @@ $(document).ready(function (){
       var height;
       var menu = $("#menu").width();
 
-      console.log(menu);
-
       setTimeout(function () {
 
       width = $(window).width();
@@ -14,26 +12,21 @@ $(document).ready(function (){
       var contentW = Math.floor(width/2);
       var contentH = Math.floor(height/2);
 
-      $('#wrap').css({"min-width": width+20, "min-height": height});
+      $('#wrap').css({"min-width": width+20, "max-height": height});
 
       }, 500);
 
-      /*$('.home').css({"max-width": contentW, "height": "auto", "margin-right": "25%", "margin-left": "auto", "float": "right"});
-      $('#texts').css({"max-width": contentW, "height": "auto", "margin-right": "25%", "margin-left": "auto",  "float": "right"});
-      $('#gallery').css({"max-width": contentW, "height": "auto", "margin-right": "25%", "margin-left": "auto",  "float": "right"});
-      $('.gallery_teaser').css({"width": (contentW/3) + (contentW/10), "float": "left", "display": "inline"});
-      $('.text').css({"max-width": (contentW/2) + (contentW/6), "height": "auto", "margin-left": "auto", "float": "right", "display": "inline-block"});
-      $('.images').css({"max-width": (contentW/2) + (contentW/6), "float": "left"});
-      $('#teaser').css({"max-width": contentW, "height": "auto", "margin-right": "25%", "margin-left": "auto",  "float": "right"});
-      $('.websites').css({"max-width": contentW, "height": "auto", "margin-right": "25%", "margin-left": "auto",  "float": "right"});
-      $('#video_teaser').css({"max-width": contentW, "height": "auto", "margin-right": "25%", "margin-left": "auto",  "float": "right"});
-      $('#contact').css({"max-width": contentW, "height": "auto", "margin-right": "25%", "margin-left": "auto",  "float": "right"});*/
+      var isMobile = navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry)/); 
 
-      if (menu < width/3) {
-        $("#menu").css({"position": "relative"})
-        $(".topmenu").css({"width": "100%", "text-align": "center"});
+      if( isMobile != null ) {
+
+        $("#menu").css({"position": "relative", "width": "400px"});
+        $(".topmenu").css({"width": "80px", "text-align": "center"});
         $(".submenu").css({"width": "100%", "text-align": "center"});
         $(".submenu a").css({"width": "100%", "text-align": "center"});
+        $('#teaser').css({"width": "100%", "height": "auto", "margin-right": "auto", "margin-left": "100px",  "float": "left"});
+        $('.text_teaser').css({"height": "auto"});
+        $('#cc').hide();
       }
 
 });

@@ -1,41 +1,40 @@
-html, body {
-  height:auto;
-  padding-bottom: 10px;
-  width:100%;
-  font-size:100%;
-  overflow-x:hidden;
+/*Setup & Nav*/
+
+body {
+  min-height: 100%;
+  overflow-x: hidden;
+  cursor: crosshair;
 }
 
-/*Menubar*/
-
 #logo {
-  float:left;
-  top:50px;
-  left:50px;
-  margin-right:auto;
-  position:fixed;
-  z-index: 2;
+	float:left;
+	top:50px;
+	left:50px;
+	margin-right:50px;
+	position:fixed;
 }
 
 #cc {
-  float:left;
-  bottom:10px;
-  left:50px;
-  margin-right:auto;
-  position:fixed;
-  z-index: 2;
-}
+   position:fixed;
+   bottom:3%;
+   right:100px;
+   width:70px;
+ }
+
+#cc img {
+   margin-right: 5px;
+ }
 
 #menu {
     font-family:Helvetica, Arial, sans-serif;
     font-size:14px;
-    top:65px;
-    position:absolute;
-    width:auto;
-    margin-left: 275px;
-    margin-right: 5%;
+    top:100px;
+    margin-left: auto;
+    right: 100px;
+    position: relative;
+    width:550px;
     color: #fff;
-    z-index:2;
+    z-index: 2;
 }
 
 #menu ul {
@@ -46,18 +45,22 @@ html, body {
     color: #fff;
 }
 
-#menu li .topmenu {
+#menu li.topmenu {
   float:left;
   color: #fff;
 }
+
+#menu li.topmenu li.submenu {
+  text-align:left !important;
+  width:150px;
+}
+
 .topmenu {
     margin-left: auto;
     margin-right: auto;
     font-weight:bold;
-    width:150px;
+    width:110px;
     text-align: center;
-    display: inline-block;
-    vertical-align: middle;
   }
 
 .topmenu a {
@@ -74,20 +77,18 @@ html, body {
   border-collapse:collapse;
   font-weight:bold;
   text-decoration:none;
+  text-align:left !important;
   margin:0;  
 }
 
-.submenu {
-  text-align: left;
-  width:150px;
-}
-
-.submenu a {
+.submenu a{
   font-weight:400;
   line-height:1.6em;
   font-size:12px;
+  width:180px;
+  position:relative;
   clear:both; /* special IE6 */
-  text-align:left;
+  text-align:left !important;
   color: #fff;
 }
 
@@ -103,34 +104,45 @@ html, body {
 
 /*Content*/
 
+h4 a {
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:14px;
+  color: #edfecb;
+  text-decoration: none;
+}
+
+h4 {
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:14px;
+  line-height: 1.6em;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+}
+
+h5 {
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:12px;
+  line-height: 1.6em;
+  color: #fff;
+  text-decoration: none;
+}
+
 #wrap {
-  top: 0px;
-  left: 0px;
-  right: 0px;
-  padding-top: 80px;
-  width: auto;
-  height: auto;
-  position: absolute;
-  background: url(/images/transparent_black.png) top left repeat;
-}
-
-#teaser {
   margin-top: 100px;
-  margin-left: 25%;
-  margin-right: 5%;
-  max-width: 50%;
-  height: auto;
-  position: relative;
+  width: auto;
+  min-height: 100%;
+  position:absolute;
+  padding-bottom: 150px;
+  overflow-x: hidden;
 }
-
-/*Home*/
 
 .home {
+  width: 600px;
+  margin-left: 30%;
+  margin-right: 30%;
   margin-top: 100px;
-  width: 50%;
-  height: auto;
-  margin-left: 275px;
-  margin-right: auto;
+  position: absolute;
 }
 
 .home img {
@@ -155,13 +167,48 @@ html, body {
   color: #fff;
 }
 
-/*Texts*/
+/*CONTENT WRAPPER!*/
+
+#teaser {
+  margin-top: 100px;
+  width: 800px;
+  height: auto;
+  margin-left: 15%;
+  margin-right: auto;
+}
+
+.center {
+  text-align:center;
+}
+
+/*TEXTS*/
+
+.text h4 {
+  text-decoration: none;
+}
+
+#texts .text {
+  width:30%;
+  float:left;
+  margin-top: 100px;
+  margin-left: 15%;
+  margin-right: auto;
+  font-family:Helvetica, Arial, sans-serif;
+  text-indent: 1em;
+  font-size:12px;
+  line-height: 1.2em;
+  color: #fff;
+}
+
+#texts .text p {
+  text-indent: 1em;
+}
 
 .text_teaser {
   width: 275px;
   height:225px;
   float:left;
-  display:inline-block;
+  margin-left:auto;
   padding-left:10px;
   padding-right:10px;
   padding-bottom:10px;
@@ -172,43 +219,108 @@ html, body {
 }
 
 .text_teaser a {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family:Helvetica, Arial, sans-serif;
   text-indent: 3em;
   font-size:14px;
   color: #edfecb;
   text-decoration: none;
 }
 
-.text {
-  width:33%;
-  float:right;
+/*VIDEO*/
+
+#video_teaser {
   margin-top: 100px;
-  margin-left: 25%;
+  width: auto;
+  margin-left: 20%;
   margin-right: auto;
-  font-family:Helvetica, Arial, sans-serif;
-  text-indent: 1em;
-  font-size:12px;
-  line-height: 1.2em;
-  color: #fff;
-  position: absolute;
 }
 
-.text a {
+#video_teaser h4 {
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:14px;
+  line-height: 1.6em;
+  color: #fff;
+  text-decoration: none;
+  display: block;
+}
+
+#video_teaser iframe {
+  padding-bottom:50px;
+}
+
+/*CONTACT*/
+
+#contact {
+  padding-top: 20%;
+  font-family:Helvetica, Arial, sans-serif;
+  text-indent: 3em;
+  font-size:16px;
+  color:#fff;
+}
+
+#contact a {
   text-decoration: none;
   color: #edfecb;
 }
 
-.text h4 {
+.text a h5 {
+  text-decoration: none;
+  color: #edfecb;
+}
+
+/*OBJECTS*/
+
+.object_teaser {
+  width: 350px;
+  height:100px;
+  float:left;
+  margin-left:auto;
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:12px;
+  line-height: 1.2em;
+  color: #fff;
+}
+
+.object_teaser a {
+  font-family:Helvetica, Arial, sans-serif;
+  text-indent: 3em;
+  font-size:14px;
+  color: #edfecb;
   text-decoration: none;
 }
 
-/*Exhibition - Installation/Shows*/
+
+/*PARTICIPANTS*/
+
+
+.part_teaser {
+  width: 350px;
+  height:auto;
+  margin-left:10px;
+  margin-right:auto;
+  font-family:Helvetica, Arial, sans-serif;
+  font-size:12px;
+  line-height: 1.2em;
+  color: #fff;
+}
+
+.part_teaser a {
+  font-family:Helvetica, Arial, sans-serif;
+  text-indent: 3em;
+  font-size:14px;
+  color: #edfecb;
+  text-decoration: none;
+}
+
+/*GALLERY*/
 
 .gallery_teaser {
   width: 300px;
   height:300px;
   float:left;
-  display:inline-block;
   margin-left:auto;
   padding-left:10px;
   padding-right:10px;
@@ -233,25 +345,25 @@ html, body {
 }
 
 #gallery {
-  max-width:50%;
+  width:700px;
+  float:left;
   margin-top: 100px;
   margin-left: 25%;
   margin-right: auto;
 }
 
 #gallery img {
+  float: left;
   padding:10px;
-  width:100%;
+  width:400px;
   height:auto;
 }
+
 
 #gallery .text {
   width: 190px;
   padding-left:20px;
   float:right;
-  margin-top: 100px;
-  margin-left: 400px;
-  margin-right: auto;
   font-family:Helvetica, Arial, sans-serif;
   text-indent: 1em;
   font-size:12px;
@@ -268,7 +380,7 @@ html, body {
 }
 
 #gallery .images {
-  width: 400px;
+  margin-left: auto;
   margin-right: auto;
 }
 
@@ -279,65 +391,6 @@ html, body {
 #gallery .images iframe {
   padding: 10px 5px 10px 5px;
 }
-
-/*Videos*/
-
-#video_teaser {
-  margin-top: 100px;
-}
-
-#video_teaser iframe {
-  padding-bottom:50px;
-}
-
-
-.object_teaser {
-  width: 350px;
-  height:100px;
-  float:left;
-  display:inline-block;
-  margin-left:auto;
-  padding-left:10px;
-  padding-right:10px;
-  padding-bottom:10px;
-  font-family:Helvetica, Arial, sans-serif;
-  font-size:12px;
-  line-height: 1.2em;
-  color: #fff;
-}
-
-.object_teaser a {
-  font-family:Helvetica, Arial, sans-serif;
-  text-indent: 3em;
-  font-size:14px;
-  color: #edfecb;
-  text-decoration: none;
-}
-
-.part_teaser {
-  width: 350px;
-  height:auto;
-  margin-left:auto;
-  margin-right:auto;
-  padding-left:10px;
-  padding-right:10px;
-  padding-top:20px;
-  padding-bottom:20px;
-  font-family:Helvetica, Arial, sans-serif;
-  font-size:12px;
-  line-height: 1.2em;
-  color: #fff;
-}
-
-.part_teaser a {
-  font-family:Helvetica, Arial, sans-serif;
-  text-indent: 3em;
-  font-size:14px;
-  color: #edfecb;
-  text-decoration: none;
-}
-
-/*Websites*/
 
 .websites {
   width:auto;
@@ -356,47 +409,3 @@ html, body {
   text-decoration: none;
 }
 
-/*Contact*/
-
-#contact {
-  padding-top: 20%;
-  font-family:Helvetica, Arial, sans-serif;
-  text-indent: 3em;
-  font-size:16px;
-  color:#fff;
-}
-
-#contact a {
-  text-decoration: none;
-  color: #edfecb;
-}
-
-/*Formatting*/
-
-h4 {
-  font-family:Helvetica, Arial, sans-serif;
-  font-size:14px;
-  line-height: 1.6em;
-  color: #fff;
-  text-decoration: none;
-  display: block;
-}
-
-h4 a {
-  font-family:Helvetica, Arial, sans-serif;
-  font-size:14px;
-  color: #edfecb;
-  text-decoration: none;
-}
-
-h5 {
-  font-family:Helvetica, Arial, sans-serif;
-  font-size:12px;
-  line-height: 1.6em;
-  color: #fff;
-  text-decoration: none;
-}
-
-a h5 {
-  text-decoration: none;
-}
