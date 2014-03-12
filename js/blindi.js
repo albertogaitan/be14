@@ -4,17 +4,24 @@ $(document).ready(function (){
       var height;
       var menu = $("#menu").width();
 
-      setTimeout(function () {
-
       width = $(window).width();
       height = $(document).height();
 
       var contentW = Math.floor(width/2);
       var contentH = Math.floor(height/2);
 
-      $('#wrap').css({"min-width": width+20, "max-height": height});
+      $('#wrap').css({"width": width, "min-height": height});
 
-      }, 500);
+
+      var resize = false;
+
+      $(window).resize(function() {
+        resize = true;
+        if (resize != false) {
+          $('#teaser').css({"max-width": width - width/4});
+        }
+        resize = false;
+      });
 
       var isMobile = navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry)/); 
 
