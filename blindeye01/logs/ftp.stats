@@ -1,0 +1,683 @@
+x	VE	analog 4.16
+x	HN	Cobalt
+x	PS	2003	09	11	04	02
+x	FR	2002	03	16	12	45
+x	LR	2003	09	10	13	02
+x	E7	2003	09	11	04	02
+x	SR	285
+x	S7	34
+x	PR	169
+x	P7	33
+x	NF	140
+x	N7	17
+x	NH	16
+x	H7	1
+x	BT	3447533
+x	B7	418473
+r	f	1R	r
+r	RrBb	80	28.070	1273914	36.951	/home/sites/site78/web/about.html
+r	RrBb	13	4.561	177253	5.141	/home/sites/site78/web/chashama.html
+r	RrBb	8	2.807	81148	2.354	/home/sites/site78/web/images/about.html
+r	RrBb	7	2.456	52033	1.509	/home/sites/site78/web/demo.html
+r	RrBb	5	1.754	39051	1.133	/home/sites/site78/web/forsale.html
+r	RrBb	5	1.754	53372	1.548	/home/sites/site78/web/videos.html
+r	RrBb	4	1.404	25789	0.748	/home/sites/site78/web/contact.html
+r	RrBb	4	1.404	32994	0.957	/home/sites/site78/web/filmscout.html
+r	RrBb	4	1.404	64938	1.884	/home/sites/site78/web/images/bebop2.gif
+r	RrBb	4	1.404	84599	2.454	/home/sites/site78/web/collaborator.html
+r	RrBb	4	1.404	55297	1.604	/home/sites/site78/web/storefronts.html
+r	RrBb	4	1.404	59049	1.713	/home/sites/site78/web/science.html
+r	RrBb	3	1.053	10437	0.303	/home/sites/site78/web/images/top_nav.gif
+r	RrBb	3	1.053	6871	0.199	/home/sites/site78/web/
+r	RrBb	2	0.702	10320	0.299	/home/sites/site78/users/forsman/web/
+r	RrBb	2	0.702	9291	0.269	/home/sites/site78/web/anti-tv.html
+r	RrBb	2	0.702	10002	0.290	/home/sites/site78/web/images/bebop1.gif
+r	RrBb	2	0.702	42399	1.230	/home/sites/site78/web/manifesto.html
+r	RrBb	2	0.702	15472	0.449	/home/sites/site78/web/about.html-bkup
+r	RrBb	2	0.702	11412	0.331	/home/sites/site78/web/images/deflectstickbed.gif
+r	RrBb	2	0.702	39623	1.149	/home/sites/site78/web/about_12_01.html
+r	RrBb	2	0.702	3876	0.112	/home/sites/site78/web/images/top_nav-bkup.gif
+r	RrBb	2	0.702	390	0.011	/home/sites/site78/web/images/finaleopus100.txt
+r	RrBb	2	0.702	19051	0.553	/home/sites/site78/web/exoptic_back.html
+r	RrBb	2	0.702	1243	0.036	/home/sites/site78/web/fade1.html
+r	RrBb	2	0.702	16982	0.493	/home/sites/site78/web/exoptic.html
+r	RrBb	2	0.702	15475	0.449	/home/sites/site78/about.html
+r	RrBb	2	0.702	28754	0.834	/home/sites/site78/web/main.html
+r	RrBb	2	0.702	418884	12.150	/home/sites/site78/Mpls_pix-Mar02/DSCN0518.JPG
+r	RrBb	2	0.702	1280	0.037	/home/sites/site78/web/images/lft_bones.gif
+r	RrBb	2	0.702	17567	0.510	/home/sites/site78/web/origins.html
+r	RrBb	2	0.702	23176	0.672	/home/sites/site78/users/blindeye/web/
+r	RrBb	2	0.702	15573	0.452	/home/sites/site78/web/mission.html
+r	RrBb	1	0.351	2124	0.062	/home/sites/site78/web/images/ministore-dancer-wide.jpg
+r	RrBb	1	0.351	7273	0.211	/home/sites/site78/web/images/filmscout.html
+r	RrBb	1	0.351	584	0.017	/home/sites/site78/web/images/events.gif
+r	RrBb	1	0.351	3121	0.091	/home/sites/site78/web/images/extra-bb-perf2.jpg
+r	RrBb	1	0.351	6978	0.202	/home/sites/site78/web/images/intro3.jpg
+r	RrBb	1	0.351	12172	0.353	/home/sites/site78/web/images/blindeyebabe1b.gif
+r	RrBb	1	0.351	11674	0.339	/home/sites/site78/web/images/historyframe.jpg
+r	RrBb	1	0.351	9077	0.263	/home/sites/site78/web/images/intro1.jpg
+r	RrBb	1	0.351	3415	0.099	/home/sites/site78/web/images/fbi2.gif
+r	RrBb	1	0.351	7555	0.219	/home/sites/site78/web/images/eye.gif
+r	RrBb	1	0.351	3992	0.116	/home/sites/site78/web/images/ministore-dancer.jpg
+r	RrBb	1	0.351	20717	0.601	/home/sites/site78/web/images/exopticfields-card-display.gif
+r	RrBb	1	0.351	12194	0.354	/home/sites/site78/web/images/open-42ndStdancer+bones.jpg
+r	RrBb	1	0.351	4150	0.120	/home/sites/site78/web/images/ministore1.jpg
+r	RrBb	1	0.351	3180	0.092	/home/sites/site78/web/images/ministore-motorcycle.jpg
+r	RrBb	1	0.351	2666	0.077	/home/sites/site78/web/images/ministore-sketch.gif
+r	RrBb	1	0.351	19	0.001	/home/sites/site78/web/test.txt
+r	RrBb	1	0.351	2726	0.079	/home/sites/site78/web/images/cubistdancer-thumb.gif
+r	RrBb	1	0.351	10142	0.294	/home/sites/site78/web/images/42nd.jpg
+r	RrBb	1	0.351	5046	0.146	/home/sites/site78/web/images/boxicon.jpg
+r	RrBb	1	0.351	4212	0.122	/home/sites/site78/web/images/full125window-thumb.jpg
+r	RrBb	1	0.351	345	0.010	/home/sites/site78/web/images/about.gif
+r	RrBb	1	0.351	5217	0.151	/home/sites/site78/web/images/bigeye-top_nav.gif
+r	RrBb	1	0.351	809	0.023	/home/sites/site78/web/images/button_deflective_b.gif
+r	RrBb	1	0.351	1902	0.055	/home/sites/site78/web/images/quote_what_we_do.gif
+r	RrBb	1	0.351	10121	0.294	/home/sites/site78/web/images/extra-child-perf2.jpg
+r	RrBb	1	0.351	314	0.009	/home/sites/site78/web/images/button_link_b.gif
+r	RrBb	1	0.351	3777	0.110	/home/sites/site78/web/images/extr-bb-perf1.jpg
+r	RrBb	1	0.351	1374	0.040	/home/sites/site78/web/images/lauging-icon.jpg
+r	RrBb	1	0.351	96016	2.785	/home/sites/site78/web/images/front_window.gif
+r	RrBb	1	0.351	589	0.017	/home/sites/site78/web/images/button_preview_b.gif
+r	RrBb	1	0.351	18865	0.547	/home/sites/site78/web/images/antitv-display.gif
+r	RrBb	1	0.351	722	0.021	/home/sites/site78/web/images/button_exoptic_b.gif
+r	RrBb	1	0.351	15480	0.449	/home/sites/site78/web/images/chashama.html
+r	RrBb	1	0.351	10237	0.297	/home/sites/site78/web/images/oeffnungszeiten_bild.gif
+r	RrBb	1	0.351	5093	0.148	/home/sites/site78/web/images/arrwsfldeye.jpg
+r	RrBb	1	0.351	427	0.012	/home/sites/site78/web/images/contactus_main_off.gif
+r	RrBb	1	0.351	23418	0.679	/home/sites/site78/web/images/fbi2.jpg
+r	RrBb	1	0.351	12520	0.363	/home/sites/site78/web/images/bklyn-exptrncls2.jpg
+r	RrBb	1	0.351	8428	0.244	/home/sites/site78/web/images/blindeyebabe2b.gif
+r	RrBb	1	0.351	4572	0.133	/home/sites/site78/web/images/ministore-stroller-before.jpg
+r	RrBb	1	0.351	3317	0.096	/home/sites/site78/web/images/brklynwindow-thumb.jpg
+r	RrBb	1	0.351	339	0.010	/home/sites/site78/web/images/navtag.gif
+r	RrBb	1	0.351	610	0.018	/home/sites/site78/web/images/button_heat_b.gif
+r	RrBb	1	0.351	6879	0.200	/home/sites/site78/web/images/extra-naval-perf3.jpg
+r	RrBb	1	0.351	10700	0.310	/home/sites/site78/web/images/extra-naval-perf1.jpg
+r	RrBb	1	0.351	9057	0.263	/home/sites/site78/web/images/cubistdancer.gif
+r	RrBb	1	0.351	2645	0.077	/home/sites/site78/web/images/eyehole.jpg
+r	RrBb	1	0.351	2476	0.072	/home/sites/site78/web/images/ministore-125-42ndSt.jpg
+r	RrBb	1	0.351	216	0.006	/home/sites/site78/web/images/print_icon.gif
+r	RrBb	1	0.351	43	0.001	/home/sites/site78/web/images/graypixel.gif
+r	RrBb	1	0.351	11665	0.338	/home/sites/site78/web/images/laughc_thumb.gif
+r	RrBb	1	0.351	7681	0.223	/home/sites/site78/web/images/logo.gif
+r	RrBb	1	0.351	877	0.025	/home/sites/site78/web/images/blackeyecard-icon.gif
+r	RrBb	1	0.351	7912	0.229	/home/sites/site78/web/images/cubistdancer-thumb.jpg
+r	RrBb	1	0.351	20452	0.593	/home/sites/site78/web/images/full125window.jpg
+r	RrBb	1	0.351	6290	0.182	/home/sites/site78/web/images/intro4.jpg
+r	RrBb	1	0.351	14265	0.414	/home/sites/site78/web/images/laughingcple-widedisplay.jpg
+r	RrBb	1	0.351	10348	0.300	/home/sites/site78/web/images/intro2.jpg
+r	RrBb	1	0.351	9448	0.274	/home/sites/site78/web/images/historysplash.jpg
+r	RrBb	1	0.351	35	0.001	/home/sites/site78/web/images/clear.gif
+r	RrBb	1	0.351	3038	0.088	/home/sites/site78/web/images/fbi3.gif
+r	RrBb	1	0.351	409	0.012	/home/sites/site78/web/images/careers_main_off.gif
+r	RrBb	1	0.351	2751	0.080	/home/sites/site78/web/images/ministore-model.jpg
+r	RrBb	1	0.351	3057	0.089	/home/sites/site78/web/images/fbi1.gif
+r	RrBb	1	0.351	3877	0.112	/home/sites/site78/web/images/reddress.gif
+r	RrBb	1	0.351	6453	0.187	/home/sites/site78/web/images/binterv.gif
+r	RrBb	1	0.351	1613	0.047	/home/sites/site78/web/images/main_bar.gif
+r	RrBb	1	0.351	788	0.023	/home/sites/site78/web/images/button_utne_b.gif
+r	RrBb	1	0.351	4827	0.140	/home/sites/site78/web/images/extra-fritz-perf1.jpg
+r	RrBb	1	0.351	26299	0.763	/home/sites/site78/web/images/extr-naval-perf+.jpg
+r	RrBb	1	0.351	14609	0.424	/home/sites/site78/web/images/doubleblindheatbabe.gif
+r	RrBb	1	0.351	2966	0.086	/home/sites/site78/web/images/quote.gif
+r	RrBb	1	0.351	2170	0.063	/home/sites/site78/web/images/antitv-icon.gif
+r	RrBb	1	0.351	7662	0.222	/home/sites/site78/web/images/previewnew.html
+r	RrBb	1	0.351	5272	0.153	/home/sites/site78/web/images/blindheat_thumb.gif
+r	RrBb	1	0.351	11236	0.326	/home/sites/site78/web/images/mr.boneseye-alone.gif
+r	RrBb	1	0.351	2599	0.075	/home/sites/site78/web/images/blackeyecard-display.gif
+r	RrBb	1	0.351	4624	0.134	/home/sites/site78/web/images/deflectstickchair.gif
+r	RrBb	1	0.351	6060	0.176	/home/sites/site78/web/images/extra-child-perf3.jpg
+r	RrBb	1	0.351	4698	0.136	/home/sites/site78/users/stats/web/webUsage.html
+r	RrBb	1	0.351	11308	0.328	/home/sites/site78/web/images/extra-child-perf1.jpg
+r	RrBb	1	0.351	517	0.015	/home/sites/site78/web/images/extranet_main_off.gif
+r	RrBb	1	0.351	462	0.013	/home/sites/site78/web/images/button_manifesto_b.gif
+r	RrBb	1	0.351	5212	0.151	/home/sites/site78/web/images/eye-fld-drmtic.jpg
+r	RrBb	1	0.351	17095	0.496	/home/sites/site78/web/images/blindeye-ad.gif
+r	RrBb	1	0.351	3980	0.115	/home/sites/site78/web/images/ministore-walkbytie.jpg
+r	RrBb	1	0.351	5114	0.148	/home/sites/site78/web/images/postcard-boxwdw-icon.gif
+r	RrBb	1	0.351	488	0.014	/home/sites/site78/web/images/interventions.gif
+r	RrBb	1	0.351	1611	0.047	/home/sites/site78/web/images/exopticfields-card-icon.gif
+r	RrBb	1	0.351	21483	0.623	/home/sites/site78/web/images/fbi3.jpg
+r	RrBb	1	0.351	22120	0.642	/home/sites/site78/web/images/fbi1.jpg
+r	RrBb	1	0.351	10752	0.312	/home/sites/site78/web/images/bklyn-exptrncls1.jpg
+r	RrBb	1	0.351	619	0.018	/home/sites/site78/web/images/button_anti_b.gif
+r	RrBb	1	0.351	5424	0.157	/home/sites/site78/web/images/dncer-eye.jpg
+r	RrBb	1	0.351	15369	0.446	/home/sites/site78/web/images/laughingcouple-display.jpg
+r	RrBb	1	0.351	1264	0.037	/home/sites/site78/web/images/media.gif
+r	RrBb	1	0.351	1056	0.031	/home/sites/site78/web/images/exoptic-icon.jpg
+r	RrBb	1	0.351	12638	0.367	/home/sites/site78/web/images/extra-naval-perf2.jpg
+B	f	-40R	r
+B	RrBb	285	100.000	3447533	100.000	http://www.blindeyemedia.com/
+S	f	1R	a
+S	RrBb	7	2.456	76166	2.209	64.59.27.162
+S	RrBb	151	52.982	1514577	43.932	24-193-193-211.nyc.rr.com
+S	RrBb	3	1.053	4068	0.118	159-126.nyc.dsl.access.net
+S	RrBb	8	2.807	109368	3.172	dialup-64.154.74.116.dial1.newyork1.level3.net
+S	RrBb	2	0.702	15472	0.449	dialup-209.246.91.172.dial1.newyork1.level3.net
+S	RrBb	7	2.456	92796	2.692	dialup-209.246.72.18.dial1.newyork1.level3.net
+S	RrBb	1	0.351	15816	0.459	dialup-209.246.102.184.dial1.newyork1.level3.net
+S	RrBb	4	1.404	54115	1.570	dialup-209.246.82.239.dial1.newyork1.level3.net
+S	RrBb	3	1.053	10437	0.303	dialup-65.56.32.34.dial1.newyork1.level3.net
+S	RrBb	2	0.702	11957	0.347	dialup-63.210.208.42.dial1.newyork1.level3.net
+S	RrBb	9	3.158	140082	4.063	dialup-64.154.76.47.dial1.newyork1.level3.net
+S	RrBb	62	21.754	835605	24.238	dialup-209.246.111.48.dial1.newyork1.level3.net
+S	RrBb	17	5.965	264173	7.663	dialup-209.246.105.7.dial1.newyork1.level3.net
+S	RrBb	1	0.351	209442	6.075	dialup-209.246.94.74.dial1.newyork1.level3.net
+S	RrBb	6	2.105	70283	2.039	dialup-209.246.70.84.dial1.newyork1.level3.net
+S	RrBb	2	0.702	23176	0.672	000-024-615.area1.spcsdns.net
+o	f	1R	r
+o	RrBb	151	52.982	1514577	43.932	.com (Commercial)
+o	RrBb	127	44.561	1856790	53.859	.net (Network)
+o	RrBb	7	2.456	76166	2.209	[unresolved numerical addresses]
+d	P	0	Sun
+d	P	4	Mon
+d	P	22	Tue
+d	P	76	Wed
+d	P	53	Thu
+d	P	6	Fri
+d	P	8	Sat
+h	P	19	0
+h	P	0	1
+h	P	0	2
+h	P	0	3
+h	P	0	4
+h	P	0	5
+h	P	0	6
+h	P	0	7
+h	P	0	8
+h	P	0	9
+h	P	0	10
+h	P	4	11
+h	P	49	12
+h	P	3	13
+h	P	6	14
+h	P	6	15
+h	P	7	16
+h	P	1	17
+h	P	1	18
+h	P	0	19
+h	P	18	20
+h	P	6	21
+h	P	18	22
+h	P	31	23
+5	P	0	2003	09	09	13	05
+5	P	0	2003	09	09	13	10
+5	P	0	2003	09	09	13	15
+5	P	0	2003	09	09	13	20
+5	P	0	2003	09	09	13	25
+5	P	0	2003	09	09	13	30
+5	P	0	2003	09	09	13	35
+5	P	0	2003	09	09	13	40
+5	P	0	2003	09	09	13	45
+5	P	0	2003	09	09	13	50
+5	P	0	2003	09	09	13	55
+5	P	0	2003	09	09	14	00
+5	P	0	2003	09	09	14	05
+5	P	0	2003	09	09	14	10
+5	P	0	2003	09	09	14	15
+5	P	0	2003	09	09	14	20
+5	P	0	2003	09	09	14	25
+5	P	0	2003	09	09	14	30
+5	P	0	2003	09	09	14	35
+5	P	0	2003	09	09	14	40
+5	P	0	2003	09	09	14	45
+5	P	0	2003	09	09	14	50
+5	P	0	2003	09	09	14	55
+5	P	0	2003	09	09	15	00
+5	P	0	2003	09	09	15	05
+5	P	0	2003	09	09	15	10
+5	P	0	2003	09	09	15	15
+5	P	0	2003	09	09	15	20
+5	P	0	2003	09	09	15	25
+5	P	0	2003	09	09	15	30
+5	P	0	2003	09	09	15	35
+5	P	0	2003	09	09	15	40
+5	P	0	2003	09	09	15	45
+5	P	0	2003	09	09	15	50
+5	P	0	2003	09	09	15	55
+5	P	0	2003	09	09	16	00
+5	P	0	2003	09	09	16	05
+5	P	0	2003	09	09	16	10
+5	P	0	2003	09	09	16	15
+5	P	0	2003	09	09	16	20
+5	P	0	2003	09	09	16	25
+5	P	0	2003	09	09	16	30
+5	P	0	2003	09	09	16	35
+5	P	0	2003	09	09	16	40
+5	P	0	2003	09	09	16	45
+5	P	0	2003	09	09	16	50
+5	P	0	2003	09	09	16	55
+5	P	0	2003	09	09	17	00
+5	P	0	2003	09	09	17	05
+5	P	0	2003	09	09	17	10
+5	P	0	2003	09	09	17	15
+5	P	0	2003	09	09	17	20
+5	P	0	2003	09	09	17	25
+5	P	0	2003	09	09	17	30
+5	P	0	2003	09	09	17	35
+5	P	0	2003	09	09	17	40
+5	P	0	2003	09	09	17	45
+5	P	0	2003	09	09	17	50
+5	P	0	2003	09	09	17	55
+5	P	0	2003	09	09	18	00
+5	P	0	2003	09	09	18	05
+5	P	0	2003	09	09	18	10
+5	P	0	2003	09	09	18	15
+5	P	0	2003	09	09	18	20
+5	P	0	2003	09	09	18	25
+5	P	0	2003	09	09	18	30
+5	P	0	2003	09	09	18	35
+5	P	0	2003	09	09	18	40
+5	P	0	2003	09	09	18	45
+5	P	0	2003	09	09	18	50
+5	P	0	2003	09	09	18	55
+5	P	0	2003	09	09	19	00
+5	P	0	2003	09	09	19	05
+5	P	0	2003	09	09	19	10
+5	P	0	2003	09	09	19	15
+5	P	0	2003	09	09	19	20
+5	P	0	2003	09	09	19	25
+5	P	0	2003	09	09	19	30
+5	P	0	2003	09	09	19	35
+5	P	0	2003	09	09	19	40
+5	P	0	2003	09	09	19	45
+5	P	0	2003	09	09	19	50
+5	P	0	2003	09	09	19	55
+5	P	0	2003	09	09	20	00
+5	P	0	2003	09	09	20	05
+5	P	0	2003	09	09	20	10
+5	P	0	2003	09	09	20	15
+5	P	0	2003	09	09	20	20
+5	P	0	2003	09	09	20	25
+5	P	0	2003	09	09	20	30
+5	P	0	2003	09	09	20	35
+5	P	0	2003	09	09	20	40
+5	P	0	2003	09	09	20	45
+5	P	0	2003	09	09	20	50
+5	P	0	2003	09	09	20	55
+5	P	0	2003	09	09	21	00
+5	P	0	2003	09	09	21	05
+5	P	0	2003	09	09	21	10
+5	P	0	2003	09	09	21	15
+5	P	0	2003	09	09	21	20
+5	P	0	2003	09	09	21	25
+5	P	0	2003	09	09	21	30
+5	P	0	2003	09	09	21	35
+5	P	0	2003	09	09	21	40
+5	P	0	2003	09	09	21	45
+5	P	0	2003	09	09	21	50
+5	P	0	2003	09	09	21	55
+5	P	0	2003	09	09	22	00
+5	P	0	2003	09	09	22	05
+5	P	0	2003	09	09	22	10
+5	P	0	2003	09	09	22	15
+5	P	0	2003	09	09	22	20
+5	P	0	2003	09	09	22	25
+5	P	0	2003	09	09	22	30
+5	P	0	2003	09	09	22	35
+5	P	0	2003	09	09	22	40
+5	P	0	2003	09	09	22	45
+5	P	0	2003	09	09	22	50
+5	P	0	2003	09	09	22	55
+5	P	0	2003	09	09	23	00
+5	P	0	2003	09	09	23	05
+5	P	0	2003	09	09	23	10
+5	P	0	2003	09	09	23	15
+5	P	0	2003	09	09	23	20
+5	P	0	2003	09	09	23	25
+5	P	0	2003	09	09	23	30
+5	P	0	2003	09	09	23	35
+5	P	0	2003	09	09	23	40
+5	P	0	2003	09	09	23	45
+5	P	0	2003	09	09	23	50
+5	P	0	2003	09	09	23	55
+5	P	0	2003	09	10	00	00
+5	P	0	2003	09	10	00	05
+5	P	0	2003	09	10	00	10
+5	P	0	2003	09	10	00	15
+5	P	0	2003	09	10	00	20
+5	P	0	2003	09	10	00	25
+5	P	0	2003	09	10	00	30
+5	P	0	2003	09	10	00	35
+5	P	0	2003	09	10	00	40
+5	P	0	2003	09	10	00	45
+5	P	0	2003	09	10	00	50
+5	P	0	2003	09	10	00	55
+5	P	0	2003	09	10	01	00
+5	P	0	2003	09	10	01	05
+5	P	0	2003	09	10	01	10
+5	P	0	2003	09	10	01	15
+5	P	0	2003	09	10	01	20
+5	P	0	2003	09	10	01	25
+5	P	0	2003	09	10	01	30
+5	P	0	2003	09	10	01	35
+5	P	0	2003	09	10	01	40
+5	P	0	2003	09	10	01	45
+5	P	0	2003	09	10	01	50
+5	P	0	2003	09	10	01	55
+5	P	0	2003	09	10	02	00
+5	P	0	2003	09	10	02	05
+5	P	0	2003	09	10	02	10
+5	P	0	2003	09	10	02	15
+5	P	0	2003	09	10	02	20
+5	P	0	2003	09	10	02	25
+5	P	0	2003	09	10	02	30
+5	P	0	2003	09	10	02	35
+5	P	0	2003	09	10	02	40
+5	P	0	2003	09	10	02	45
+5	P	0	2003	09	10	02	50
+5	P	0	2003	09	10	02	55
+5	P	0	2003	09	10	03	00
+5	P	0	2003	09	10	03	05
+5	P	0	2003	09	10	03	10
+5	P	0	2003	09	10	03	15
+5	P	0	2003	09	10	03	20
+5	P	0	2003	09	10	03	25
+5	P	0	2003	09	10	03	30
+5	P	0	2003	09	10	03	35
+5	P	0	2003	09	10	03	40
+5	P	0	2003	09	10	03	45
+5	P	0	2003	09	10	03	50
+5	P	0	2003	09	10	03	55
+5	P	0	2003	09	10	04	00
+5	P	0	2003	09	10	04	05
+5	P	0	2003	09	10	04	10
+5	P	0	2003	09	10	04	15
+5	P	0	2003	09	10	04	20
+5	P	0	2003	09	10	04	25
+5	P	0	2003	09	10	04	30
+5	P	0	2003	09	10	04	35
+5	P	0	2003	09	10	04	40
+5	P	0	2003	09	10	04	45
+5	P	0	2003	09	10	04	50
+5	P	0	2003	09	10	04	55
+5	P	0	2003	09	10	05	00
+5	P	0	2003	09	10	05	05
+5	P	0	2003	09	10	05	10
+5	P	0	2003	09	10	05	15
+5	P	0	2003	09	10	05	20
+5	P	0	2003	09	10	05	25
+5	P	0	2003	09	10	05	30
+5	P	0	2003	09	10	05	35
+5	P	0	2003	09	10	05	40
+5	P	0	2003	09	10	05	45
+5	P	0	2003	09	10	05	50
+5	P	0	2003	09	10	05	55
+5	P	0	2003	09	10	06	00
+5	P	0	2003	09	10	06	05
+5	P	0	2003	09	10	06	10
+5	P	0	2003	09	10	06	15
+5	P	0	2003	09	10	06	20
+5	P	0	2003	09	10	06	25
+5	P	0	2003	09	10	06	30
+5	P	0	2003	09	10	06	35
+5	P	0	2003	09	10	06	40
+5	P	0	2003	09	10	06	45
+5	P	0	2003	09	10	06	50
+5	P	0	2003	09	10	06	55
+5	P	0	2003	09	10	07	00
+5	P	0	2003	09	10	07	05
+5	P	0	2003	09	10	07	10
+5	P	0	2003	09	10	07	15
+5	P	0	2003	09	10	07	20
+5	P	0	2003	09	10	07	25
+5	P	0	2003	09	10	07	30
+5	P	0	2003	09	10	07	35
+5	P	0	2003	09	10	07	40
+5	P	0	2003	09	10	07	45
+5	P	0	2003	09	10	07	50
+5	P	0	2003	09	10	07	55
+5	P	0	2003	09	10	08	00
+5	P	0	2003	09	10	08	05
+5	P	0	2003	09	10	08	10
+5	P	0	2003	09	10	08	15
+5	P	0	2003	09	10	08	20
+5	P	0	2003	09	10	08	25
+5	P	0	2003	09	10	08	30
+5	P	0	2003	09	10	08	35
+5	P	0	2003	09	10	08	40
+5	P	0	2003	09	10	08	45
+5	P	0	2003	09	10	08	50
+5	P	0	2003	09	10	08	55
+5	P	0	2003	09	10	09	00
+5	P	0	2003	09	10	09	05
+5	P	0	2003	09	10	09	10
+5	P	0	2003	09	10	09	15
+5	P	0	2003	09	10	09	20
+5	P	0	2003	09	10	09	25
+5	P	0	2003	09	10	09	30
+5	P	0	2003	09	10	09	35
+5	P	0	2003	09	10	09	40
+5	P	0	2003	09	10	09	45
+5	P	0	2003	09	10	09	50
+5	P	0	2003	09	10	09	55
+5	P	0	2003	09	10	10	00
+5	P	0	2003	09	10	10	05
+5	P	0	2003	09	10	10	10
+5	P	0	2003	09	10	10	15
+5	P	0	2003	09	10	10	20
+5	P	0	2003	09	10	10	25
+5	P	0	2003	09	10	10	30
+5	P	0	2003	09	10	10	35
+5	P	0	2003	09	10	10	40
+5	P	0	2003	09	10	10	45
+5	P	0	2003	09	10	10	50
+5	P	0	2003	09	10	10	55
+5	P	0	2003	09	10	11	00
+5	P	0	2003	09	10	11	05
+5	P	0	2003	09	10	11	10
+5	P	0	2003	09	10	11	15
+5	P	0	2003	09	10	11	20
+5	P	0	2003	09	10	11	25
+5	P	0	2003	09	10	11	30
+5	P	0	2003	09	10	11	35
+5	P	1	2003	09	10	11	40
+5	P	2	2003	09	10	11	45
+5	P	0	2003	09	10	11	50
+5	P	1	2003	09	10	11	55
+5	P	1	2003	09	10	12	00
+5	P	0	2003	09	10	12	05
+5	P	2	2003	09	10	12	10
+5	P	1	2003	09	10	12	15
+5	P	1	2003	09	10	12	20
+5	P	1	2003	09	10	12	25
+5	P	2	2003	09	10	12	30
+5	P	1	2003	09	10	12	35
+5	P	4	2003	09	10	12	40
+5	P	1	2003	09	10	12	45
+5	P	13	2003	09	10	12	50
+5	P	1	2003	09	10	12	55
+5	P	1	2003	09	10	13	00
+c	f	0R	a
+c	R	285	200 OK
+m	PRB	6	6	70283	2002	10
+m	PRB	0	0	0	2002	11
+m	PRB	58	69	865926	2002	12
+m	PRB	0	0	0	2003	01
+m	PRB	0	0	0	2003	02
+m	PRB	0	0	0	2003	03
+m	PRB	0	0	0	2003	04
+m	PRB	0	0	0	2003	05
+m	PRB	0	0	0	2003	06
+m	PRB	2	2	23176	2003	07
+m	PRB	0	0	0	2003	08
+m	PRB	51	151	1514577	2003	09
+H	P	0	2003	09	03	14
+H	P	0	2003	09	03	15
+H	P	0	2003	09	03	16
+H	P	0	2003	09	03	17
+H	P	0	2003	09	03	18
+H	P	0	2003	09	03	19
+H	P	18	2003	09	03	20
+H	P	0	2003	09	03	21
+H	P	0	2003	09	03	22
+H	P	0	2003	09	03	23
+H	P	0	2003	09	04	00
+H	P	0	2003	09	04	01
+H	P	0	2003	09	04	02
+H	P	0	2003	09	04	03
+H	P	0	2003	09	04	04
+H	P	0	2003	09	04	05
+H	P	0	2003	09	04	06
+H	P	0	2003	09	04	07
+H	P	0	2003	09	04	08
+H	P	0	2003	09	04	09
+H	P	0	2003	09	04	10
+H	P	0	2003	09	04	11
+H	P	0	2003	09	04	12
+H	P	0	2003	09	04	13
+H	P	0	2003	09	04	14
+H	P	0	2003	09	04	15
+H	P	0	2003	09	04	16
+H	P	0	2003	09	04	17
+H	P	0	2003	09	04	18
+H	P	0	2003	09	04	19
+H	P	0	2003	09	04	20
+H	P	0	2003	09	04	21
+H	P	0	2003	09	04	22
+H	P	0	2003	09	04	23
+H	P	0	2003	09	05	00
+H	P	0	2003	09	05	01
+H	P	0	2003	09	05	02
+H	P	0	2003	09	05	03
+H	P	0	2003	09	05	04
+H	P	0	2003	09	05	05
+H	P	0	2003	09	05	06
+H	P	0	2003	09	05	07
+H	P	0	2003	09	05	08
+H	P	0	2003	09	05	09
+H	P	0	2003	09	05	10
+H	P	0	2003	09	05	11
+H	P	0	2003	09	05	12
+H	P	0	2003	09	05	13
+H	P	0	2003	09	05	14
+H	P	0	2003	09	05	15
+H	P	0	2003	09	05	16
+H	P	0	2003	09	05	17
+H	P	0	2003	09	05	18
+H	P	0	2003	09	05	19
+H	P	0	2003	09	05	20
+H	P	0	2003	09	05	21
+H	P	0	2003	09	05	22
+H	P	0	2003	09	05	23
+H	P	0	2003	09	06	00
+H	P	0	2003	09	06	01
+H	P	0	2003	09	06	02
+H	P	0	2003	09	06	03
+H	P	0	2003	09	06	04
+H	P	0	2003	09	06	05
+H	P	0	2003	09	06	06
+H	P	0	2003	09	06	07
+H	P	0	2003	09	06	08
+H	P	0	2003	09	06	09
+H	P	0	2003	09	06	10
+H	P	0	2003	09	06	11
+H	P	0	2003	09	06	12
+H	P	0	2003	09	06	13
+H	P	0	2003	09	06	14
+H	P	0	2003	09	06	15
+H	P	0	2003	09	06	16
+H	P	0	2003	09	06	17
+H	P	0	2003	09	06	18
+H	P	0	2003	09	06	19
+H	P	0	2003	09	06	20
+H	P	0	2003	09	06	21
+H	P	0	2003	09	06	22
+H	P	0	2003	09	06	23
+H	P	0	2003	09	07	00
+H	P	0	2003	09	07	01
+H	P	0	2003	09	07	02
+H	P	0	2003	09	07	03
+H	P	0	2003	09	07	04
+H	P	0	2003	09	07	05
+H	P	0	2003	09	07	06
+H	P	0	2003	09	07	07
+H	P	0	2003	09	07	08
+H	P	0	2003	09	07	09
+H	P	0	2003	09	07	10
+H	P	0	2003	09	07	11
+H	P	0	2003	09	07	12
+H	P	0	2003	09	07	13
+H	P	0	2003	09	07	14
+H	P	0	2003	09	07	15
+H	P	0	2003	09	07	16
+H	P	0	2003	09	07	17
+H	P	0	2003	09	07	18
+H	P	0	2003	09	07	19
+H	P	0	2003	09	07	20
+H	P	0	2003	09	07	21
+H	P	0	2003	09	07	22
+H	P	0	2003	09	07	23
+H	P	0	2003	09	08	00
+H	P	0	2003	09	08	01
+H	P	0	2003	09	08	02
+H	P	0	2003	09	08	03
+H	P	0	2003	09	08	04
+H	P	0	2003	09	08	05
+H	P	0	2003	09	08	06
+H	P	0	2003	09	08	07
+H	P	0	2003	09	08	08
+H	P	0	2003	09	08	09
+H	P	0	2003	09	08	10
+H	P	0	2003	09	08	11
+H	P	0	2003	09	08	12
+H	P	0	2003	09	08	13
+H	P	0	2003	09	08	14
+H	P	0	2003	09	08	15
+H	P	0	2003	09	08	16
+H	P	0	2003	09	08	17
+H	P	0	2003	09	08	18
+H	P	0	2003	09	08	19
+H	P	0	2003	09	08	20
+H	P	0	2003	09	08	21
+H	P	0	2003	09	08	22
+H	P	0	2003	09	08	23
+H	P	0	2003	09	09	00
+H	P	0	2003	09	09	01
+H	P	0	2003	09	09	02
+H	P	0	2003	09	09	03
+H	P	0	2003	09	09	04
+H	P	0	2003	09	09	05
+H	P	0	2003	09	09	06
+H	P	0	2003	09	09	07
+H	P	0	2003	09	09	08
+H	P	0	2003	09	09	09
+H	P	0	2003	09	09	10
+H	P	0	2003	09	09	11
+H	P	0	2003	09	09	12
+H	P	0	2003	09	09	13
+H	P	0	2003	09	09	14
+H	P	0	2003	09	09	15
+H	P	0	2003	09	09	16
+H	P	0	2003	09	09	17
+H	P	0	2003	09	09	18
+H	P	0	2003	09	09	19
+H	P	0	2003	09	09	20
+H	P	0	2003	09	09	21
+H	P	0	2003	09	09	22
+H	P	0	2003	09	09	23
+H	P	0	2003	09	10	00
+H	P	0	2003	09	10	01
+H	P	0	2003	09	10	02
+H	P	0	2003	09	10	03
+H	P	0	2003	09	10	04
+H	P	0	2003	09	10	05
+H	P	0	2003	09	10	06
+H	P	0	2003	09	10	07
+H	P	0	2003	09	10	08
+H	P	0	2003	09	10	09
+H	P	0	2003	09	10	10
+H	P	4	2003	09	10	11
+H	P	28	2003	09	10	12
+H	P	1	2003	09	10	13
+i	f	0.010000%B	b
+i	Rb	285	100.000	/home/
+Z	f	-20R	r
+Z	Rb	151	43.932	rr.com
+Z	Rb	122	53.068	level3.net
+Z	Rb	7	2.209	[unresolved numerical addresses]
+Z	Rb	3	0.118	access.net
+Z	Rb	2	0.672	spcsdns.net
+p	f	0R	r
+p	NR	1	285	OS unknown
